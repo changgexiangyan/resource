@@ -1,0 +1,7 @@
+target,model,rmse,mae,r2
+breakthrough_pv,Physics-feature ridge,1.74575,1.46876,0.9353
+breakthrough_pv,Local analog kNN,3.62081,2.94824,0.7217
+cumulative_oil_pv,Physics-feature ridge,0.00000,0.00000,1.0000
+cumulative_oil_pv,Local analog kNN,0.00000,0.00000,1.0000
+terminal_watercut,Physics-feature ridge,0.00000,0.00000,1.0000
+terminal_watercut,Local analog kNN,0.00000,0.00000,1.0000
